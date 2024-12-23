@@ -1,0 +1,3 @@
+Initial Android 15 Public Release
+ • Switched to User build type.
+ • Updated blobs and firmware from CPH2581_15.0.0.406(EX01).
