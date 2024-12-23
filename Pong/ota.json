@@ -1,7 +1,9 @@
 {
     "version": "fifteen",
     "date": "1734808211000",
+    "requiredDate": "0",
     "url": "https://sourceforge.net/projects/nameless-clo/files/Pong/Nameless-CLO-15.0-20241222-Pong-Official.zip/download",
+    "id": "00b281860a2ad67708f449942db3b702f4ce8a03",
     "filename": "Nameless-CLO-15.0-20241222-Pong-Official.zip",
     "filesize": "2584114722",
     "md5": "a827968cc90b755b3d8905a627f9f1fb"
