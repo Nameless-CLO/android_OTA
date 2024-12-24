@@ -1,0 +1,7 @@
+Source Changelog
+- Initial Android 15 release with CLO rebase
+- Added status bar ticker support
+- Allow back gesture on keyboard area
+
+Note
+- A clean flash is required if you're coming from Nameless-AOSP or any custom ROMs. You will not receive OTA updates in Nameless-AOSP for this build.
