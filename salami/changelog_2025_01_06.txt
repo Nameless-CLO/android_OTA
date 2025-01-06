@@ -1,0 +1,9 @@
+Source Changes:
+- Initial Android 15 release with CLO rebase (Nameless-CLO).  
+- Added support for status bar ticker.  
+- Enabled back gesture functionality on the keyboard area.  
+
+Important Notes:
+- A clean flash is required when migrating from Nameless-AOSP or any other custom ROMs.  
+- OTA updates are not supported for this build in Nameless-AOSP.  
+- This build is based on CPH2449_14.0.0.833(EX01) and includes the firmware, so no separate firmware flash is necessary.  
