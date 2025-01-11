@@ -1,0 +1,13 @@
+Source Changelog:
+- Updated System to LA.QSSI.15.0.r1-13200-qssi.0.  
+- Fixed an issue where the 5G icon was not appearing in the status bar.
+- Added dexopt optimization to improve app performance and loading times.
+
+Device Changelog:
+- Updated Blobs, Firmware, and Kernel to NOS V3.0-241226-2001.  
+- Fixed an issue where Dirac audio would randomly stop working.
+- Added haptic effects for:
+   Plugging in the device for charging.
+   Clearing all recent apps in Nameless Launcher.
+   Taking screenshots.
+- Optimized device performance.
