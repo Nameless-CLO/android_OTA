@@ -1,0 +1,17 @@
+Source Changelog:
+- Merged February security patch.
+- Updated system to LA.QSSI.15.0.r1-14400-qssi.0
+- Updated vendor to LA.VENDOR.14.3.0.r1-18900-lanai.QSSI15.0.
+- Added Richtap haptic support.
+- Various bugs fixes and improvements.
+
+Device Changelog:
+- Updated blobs and firmware from CPH2581_15.0.0.510(EX01).
+- Added Dolby Atmos.
+- Added One-Pulse EM mode for optimizing screen brightness control and reducing flicker for a better viewing experience.
+- Refactored and improved Haptic Feedback.
+- Enabled Richtap haptic support.
+- Fixed random UI freezes and lags.
+- Improved device performance.
+- Enhanced UI rounded corners.
+- Improved screen brightness.
