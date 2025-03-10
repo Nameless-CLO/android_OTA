@@ -1,0 +1,18 @@
+Source Changelog:
+- Merged February security patch.
+- System updated to LA.QSSI.15.0.r1-14400-qssi.0.
+- Vendor updated to LA.VENDOR.14.3.0.r1-18900-lanai.QSSI15.0.
+- Added Richtap haptic support for better feedback experience.
+- Various bug fixes and system improvements for optimal performance.
+
+Device Changelog:
+- Updated blobs and firmware from CPH2449_15.0.0.600(EX01).
+- Dolby Atmos updated from Motorola for enhanced audio quality.
+- Merged latest OPLUS, QCOM, and Google ABS kernel changes.
+- Introduced One-Pulse EM mode for optimized screen brightness control, reducing flicker for a smoother viewing experience.
+- Added customizable haptics style with options to choose between Crisp or Soft feedback effects.
+- Refactored and improved Haptic Feedback for a more responsive and refined tactile experience.
+- Utilized logical id 5 in Aperture camera for better camera performance.
+- Enabled Richtap haptic support for an enhanced feedback system.
+- Improved overall device performance for a faster and more responsive experience.
+- Enhanced UI rounded corners for a more polished and modern look.
