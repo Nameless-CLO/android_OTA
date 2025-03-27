@@ -1,0 +1,20 @@
+Source changelog:
+- March 2025 Android Security Patch integrated to improve device security.
+- System update to LA.QSSI.15.0.r1-14500-qssi.0 for enhanced stability and performance.
+- Circle Search functionality enabled in the Nameless Launcher
+
+Device changelog:
+- Transitioned to OSS Kernel with an upstream update to LA.VENDOR.14.3.0.r1-19700-lanai.QSSI15.0, improving kernel efficiency and overall system optimization.
+- Screen-Off Fingerprint Unlock added for quicker and more convenient unlocking when the screen is off.
+- Significant device performance improvements that result in faster, smoother operation across apps and system functions.
+
+Important Notes:
+- Clean flash is mandatory after this update due to the switch to the OSS kernel and the newly signed kernel. Failure to perform a clean flash may lead to a "device corrupt" warning during recovery.
+
+OTA Blocked: 
+- Since this update requires a clean flash, we are blocking the OTA update to this build to avoid any potential issues. Please ensure to manually flash the update for proper installation.
+
+Clean Flash Instructions:
+1. Take a backup of your data before updating to the new build to avoid data loss.
+2. Sideload the new build in recovery mode.
+3. Format data in recovery, then reboot the system.

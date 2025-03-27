@@ -1,10 +1,10 @@
 {
     "version": "fifteen",
-    "date": "1741195320000",
-    "requiredDate": "0",
-    "url": "https://sourceforge.net/projects/nameless-clo/files/waffle/Nameless-CLO-15.0-20250305-waffle-Official.zip/download",
-    "id": "0b36ef4776a4a37d58909fc8ba2d47ec071d028b",
-    "filename": "Nameless-CLO-15.0-20250305-waffle-Official.zip",
-    "filesize": "3278526988",
-    "md5": "07270f69fd4e3787752bff6fe4aa177a"
+    "date": "1743048720000",
+    "requiredDate": "1743048720000",
+    "url": "https://sourceforge.net/projects/nameless-clo/files/waffle/Nameless-CLO-15.0-20250327-waffle-Official.zip/download",
+    "id": "43ddd3c1882cb2d3969e333070c5588db910f847",
+    "filename": "Nameless-CLO-15.0-20250327-waffle-Official.zip",
+    "filesize": "3265424873",
+    "md5": "9a47801731c8de113eb4994bd45ecd81"
 }
