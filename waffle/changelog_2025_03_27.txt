@@ -16,5 +16,5 @@ OTA Blocked:
 
 Clean Flash Instructions:
 1. Take a backup of your data before updating to the new build to avoid data loss.
-2. Sideload the new build in recovery mode.
-3. Format data in recovery, then reboot the system.
+2. Format data in recovery, then Sideload the new build in recovery mode.
+3. Reboot the system.
