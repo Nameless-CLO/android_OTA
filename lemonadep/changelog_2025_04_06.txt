@@ -1,0 +1,14 @@
+Source Changelog:
+- Merged March security patch
+- Updated system to LA.QSSI.15.0.r1-14800-qssi.0
+- Updated vendor to LA.VENDOR.14.3.0.r1-20200-lanai.0
+- Fixed a lens crash in Nameless Launcher
+- Fixed an issue where the back gesture icon would randomly get stuck
+- Added Richtap haptic support
+- Added Circle to Search functionality in Nameless Launcher
+
+Device Changelog:
+- Updated kernel to latest ACK and CLO tags
+- Enabled Richtap haptic support
+- Removed OnePlus Dolby Atmos
+- Significant performance improvements, resulting in faster and smoother operation across apps and system functions
