@@ -1,0 +1,15 @@
+Source Changelog:
+- Merged April Security Patch
+- Updated system to LA.QSSI.15.0.r1-14800-qssi.0
+- Updated vendor to LA.VENDOR.15.4.0.r1-15500-pakala.0
+- Enabled scaling reveals home animation in Nameless Launcher
+- Restored Live Caption button in the volume panel
+- Fixed lens crash in Nameless Launcher
+- Resolved issue where the back gesture icon would randomly get stuck
+
+Device Changelog:
+- Updated blobs, firmware, kernel, drivers, DTB, and DTBO from CPH2581_15.0.0.702(EX01)
+- Updated kernel and drivers to LA.VENDOR.14.3.0.r1-20200-lanai.0
+- Fixed random lags at low battery levels
+- Resolved Bluetooth connectivity issues
+- Drop Dolby Atmos
