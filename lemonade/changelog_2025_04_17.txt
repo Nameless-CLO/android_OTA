@@ -1,0 +1,22 @@
+Source Changelog:
+ - Merged April Security Patch
+ - Updated system to LA.QSSI.15.0.r1-14800-qssi.0
+ - Updated vendor to LA.VENDOR.15.4.0.r1-15500-pakala.0
+ - Enabled scaling reveals home animation in Nameless Launcher
+ - Restored Live Caption button in the volume panel
+ - Resolved Bluetooth connectivity issues
+ 
+Device Changelog:
+- Updated Performance blobs to LA.VENDOR.14.3.0.r1-11500-lanai.0
+- Improved WiFi network speed
+- Fixed Alert slider UI position
+- Fixed USB tethering
+- Fixed hotspot crash
+
+Known Issue – OnePlus Camera
+- Video mode currently doesn't work out of the box.
+- Night mode may show a pink tint in certain lighting conditions.
+
+Workaround: 
+You can get video mode working by:
+- Enabling Depth field or Retouch features, or Changing the filter before recording.
