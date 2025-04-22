@@ -1,9 +1,10 @@
 {
-    "version": "",
-    "date": "0",
+    "version": "fifteen",
+    "date": "1745327340000",
     "requiredDate": "0",
-    "url": "",
-    "filename": "",
-    "filesize": "0",
-    "md5": ""
+    "url": "https://sourceforge.net/projects/nameless-clo/files/dodge/Nameless-CLO-15.0-20250422-dodge-Official.zip/download",
+    "id": "76d76e258c885a8c8ce8805b0904dc0cf7f12a03",
+    "filename": "Nameless-CLO-15.0-20250422-dodge-Official.zip",
+    "filesize": "3516457801",
+    "md5": "7f970a3816e80b6d918a7f0de40cc4fb"
 }

@@ -1,0 +1,8 @@
+- Initial official stable release
+- Switched to user build
+- Fixed issue with SIM 2 not being detected
+- Enabled Kernel LTO for better performance and optimization
+- Removed modem and oplusstanvbk firmware from the build to prevent network issues on Chinese variant devices
+  ⚠️ These images must be manually flashed by extracting them from the stock OOS/COS firmware
+  - You do not need to flash them for every update
+  - If you're already on the latest OOS/COS version, manual flashing is not required.
